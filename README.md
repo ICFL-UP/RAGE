@@ -6,11 +6,9 @@ This Repository contains the implementation of the RAGE framework. It is a frame
 
 ## Branches
 
-### 1. *Static-Samples* 
+### 1. *Main* 
    This is the default branch of the repository. It contains the experiments that are referenced in the results section of the academic work that this Repository is related to. 
 
-### 2. *Main* 
-This is an extra branch of the repository and it contains the initial implementation of the RAGE framework
 
 ## RAGE Framework Context
 The RAGE framework is constructed to implement a custom adversarial algorithm found in the *attack_functionality* folder to generate ransomware adversarial samples. 
